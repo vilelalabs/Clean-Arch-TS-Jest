@@ -1,7 +1,7 @@
 # Clean-Arch-TS-Jest
 
 This project is a simples test and be a simple example on building an Business-Rule
-for a kind of GPS Route Tracking Application through concepts of Clean Code/Archtecture, Solid.
+for a kind of GPS Route Tracking Application through concepts of Clean Code/Archtecture, SOLID.
 
 ## Extras 
 - It provides some use-case tests using Jest 
